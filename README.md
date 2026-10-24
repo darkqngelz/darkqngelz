@@ -30,7 +30,7 @@
 
   
 <h3>
-  <font color="cyan">"My</font> ✦ 
-  <font color="#ff66b2">soul</font> ✦ 
-  <font color="lightgreen">is painted like buttterflywings"</font>
+  <font color="cyan">.</font>  
+  <font color="#ff66b2">.</font> 
+  <font color="lightgreen">"му ѕσυℓ ιѕ ραιитє∂ ℓιкє∂ вυттєяfυℓу ωιиgѕ"</font>
 </h3>
