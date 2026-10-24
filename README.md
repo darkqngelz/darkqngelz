@@ -23,9 +23,9 @@
     </td>
 
 ### Hello, I'm a Developer!
-This text will automatically flow alongside the image on the left. 
-You can keep typing sentences and paragraphs normally here, and GitHub 
-will push everything down until it clears past the bottom of the right-aligned picture.
+⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
+၇ৎㅤ˖ㅤ࣪ㅤproﾉnouns
+. ݁ ˖ㅤ00 ㅤ txt txt txt
 
 
 
