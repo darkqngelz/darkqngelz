@@ -23,3 +23,8 @@ will push everything down until it clears past the bottom of the right-aligned p
 
 
   
+<h3>
+  <font color="cyan">portfolio</font> ✦ 
+  <font color="#ff66b2">contact</font> ✦ 
+  <font color="lightgreen">socials</font>
+</h3>
