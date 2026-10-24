@@ -12,7 +12,7 @@
 <table border="0" width="100%">
   <tr>
 
-<img align="right" src="wings.3.png" width="500" />
+<img align="right" src="chibi cloud.png" width="500" />
 
 <!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
 <table border="0" width="100%">
