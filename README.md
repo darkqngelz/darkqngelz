@@ -11,7 +11,15 @@
 <table border="0" width="100%">
   <tr>
     
-![Profile Views](https://komarev.com) 
+<div align="center">
+
+  <!-- CLANS BADGE -->
+  <img src="https://komarev.com" alt="Clans Count" />
+
+  <!-- WEAPONRY BADGE -->
+  <img src="https://komarev.com" alt="Weaponry Count" />
+
+</div>
     
 <img align="right" src="cute chibis.png" width="500" />
 
