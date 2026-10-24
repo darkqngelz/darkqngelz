@@ -13,11 +13,9 @@
   <tr>
 
 <img align="right" src="wing.png" width="300" />
- 
- <td width="45%" valign="top" align="center">
-      <img src="font 2.png" width="100%" style="border-radius: 8px;" />
-    </td>
 
+<img src="font 2.png" width="100%" style="border-radius: 8px;" />
+    </td>
 ### Hello, I'm a Developer!
 This text will automatically flow alongside the image on the left. 
 You can keep typing sentences and paragraphs normally here, and GitHub 
