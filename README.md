@@ -25,7 +25,7 @@
   <tr>
     <!-- LEFT SIDE: Main Visual Artwork -->
     <td width="45%" valign="top" align="center">
-      <img src="YOUR_MAIN_LEFT_SIDE_IMAGE_OR_GIF_URL" width="100%" style="border-radius: 8px;" />
+      <img src="cloud.png" width="100%" style="border-radius: 8px;" />
     </td>
 
   
