@@ -12,7 +12,7 @@
 <table border="0" width="100%">
   <tr>
     <!-- RIGHT SIDE: Main Visual Artwork -->
-    <td width="45%" valign="top" align="center">
+    <td width="45%" valign="top" align="right">
       <img src="wing.png" width="100%" style="border-radius: 8px;" />
     </td>
 
