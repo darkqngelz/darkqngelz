@@ -24,13 +24,3 @@
 
 ### .ANGLㅤ
 "afk / w2i"
-
-
-
-
-  
-<h3>
-  <font color="cyan">.</font>  
-  <font color="#ff66b2">.</font> 
-  <font color="lightgreen">"му ѕσυℓ ιѕ ραιитє∂ ℓιкє вυттєяfυℓу ωιиgѕ"</font>
-</h3>
