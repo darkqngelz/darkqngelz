@@ -5,7 +5,7 @@
     <td width="45%" valign="top" align="center">
       <img src="shadow and pure.png" width="100%" style="border-radius: 8px;" />
     </td>
-    
+"bmf? ,, i'm friendly . just shy at first."    
 
 <!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
 <table border="0" width="100%">
