@@ -22,7 +22,10 @@
     <td width="45%" valign="top" align="center">
       <img src="font 2.png" width="100%" style="border-radius: 8px;" />
     </td>
+    
+    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Contributor&font=Fira+Code&size=24&color=CC785C&width=500&height=100)](https://git.io/typing-svg)
 
-### .ANGLㅤ
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Contributor&font=Fira+Code&size=24&color=CC785C&width=500&height=100)](https://git.io/typing-svg)
+
+
+
 
