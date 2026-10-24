@@ -23,7 +23,7 @@
       <img src="font 2.png" width="100%" style="border-radius: 8px;" />
     </td>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;World&color=FF5733)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Angel";"Wings"&color=ABDFE0)](https://git.io/typing-svg)
 
 
 
