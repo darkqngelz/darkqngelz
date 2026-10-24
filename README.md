@@ -22,7 +22,7 @@
       <img src="font 2.png" width="100%" style="border-radius: 8px;" />
     </td>
 
-### .𝚀𝙽𝙶𝙴𝙻 ㅤ
+### .ANGLㅤ
 "afk / w2i"
 
 
