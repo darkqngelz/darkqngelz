@@ -30,7 +30,7 @@
 
   
 <h3>
-  <font color="cyan">𝔥𝔢</font> ✦ 
-  <font color="#ff66b2">𝔥𝔦𝔪</font> ✦ 
-  <font color="lightgreen">𝔤𝔬𝔱𝔥</font>
+  <font color="cyan">"My</font> ✦ 
+  <font color="#ff66b2">soul</font> ✦ 
+  <font color="lightgreen">is painted like buttterflywings"</font>
 </h3>
