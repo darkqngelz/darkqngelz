@@ -12,7 +12,7 @@
 <table border="0" width="100%">
   <tr>
 
-<img align="right" src="chibi cloud.png" width="300" />
+<img align="right" src="chibi cloud.png" width="500" />
 
 <!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
 <table border="0" width="100%">
@@ -25,7 +25,7 @@
 ### .𝚀𝙽𝙶𝙴𝙻
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
 ၇ৎㅤ˖ㅤ࣪ㅤafkﾉw2i
-. ݁ ˖ㅤ00 ㅤ "ᴹᵞ ˢᴼᵁᴸ ᵂᴬˢ ᴾᴬᴵᴺᵀᴱᴰ ᴸᴵᴷᴱ ᴮᵁᵀᵀᴱᴿᶠᴸᵞ ᵂᴵᴺᴳˢ."
+. ݁ ˖ㅤ00 ㅤ "ᴍʏ sᴏᴜʟ ᴡᴀs ᴘᴀɪɴᴛᴇᴅ ʟɪᴋᴇ ʙᴜᴛᴛᴇʀғʟʏ ᴡɪɴɢs"
 
 
 
