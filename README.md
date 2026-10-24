@@ -24,4 +24,5 @@
     </td>
 
 ### .ANGLㅤ
-"afk / w2i"
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Contributor&font=Fira+Code&size=24&color=CC785C&width=500&height=100)](https://git.io/typing-svg)
+
