@@ -11,7 +11,7 @@
 <table border="0" width="100%">
   <tr>
     
-![Profile Views](https://komarev.com) ![Visitors](https://visitorbadge.io)
+![Profile Views](https://komarev.com) 
     
 <img align="right" src="cute chibis.png" width="500" />
 
