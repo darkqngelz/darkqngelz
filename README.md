@@ -8,4 +8,4 @@
 <p align="center">
   <img src="font 2.png" width="400" alt="Gothic Potrait"/><p align="center">
 <p align="center">
-  <img src="he . him.png" width="400" alt="Gothic Potrait"/><p align="center">
+  <img src="he . him.png" width="200" alt="Gothic Potrait"/><p align="center">
