@@ -9,7 +9,7 @@
   <img src="https://placehold.co" width="100%" /><br>
 
   <!-- 4. 3 IMAGES SIDE-BY-SIDE (No spaces between tags!) -->
-  <img src="img 1.png" width="32%" /><img src="img 2.png" width="32%" /><img src="img 3.png" width="32%" /><br>
+  <img src="img 1.png" width="32%" /><img src="img 3.png" width="32%" /><img src="img 3.png" width="32%" /><br>
 
   <!-- 5. TEXT BANNER 2 -->
   <img src="heheh.png" width="100%" /><br>
