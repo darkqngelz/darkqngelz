@@ -1,9 +1,9 @@
 <p align="center">
   <!-- TOP HEADER BORDER GRAPHIC -->
-  <img src="YOUR_TOP_LACE_BORDER_URL" width="100%" /><br>
+  <img src="divid grey.png" width="100%" /><br>
 
   <!-- TEXT BANNER 1 (EVERYONE COME BACK...) -->
-  <img src="YOUR_TEXT_BANNER_1_URL" width="100%" /><br>
+  <img src="heh.webp" width="100%" /><br>
 
   <!-- MAIN CENTER ARTWORK -->
   <img src="YOUR_MAIN_CENTER_ART_URL" width="100%" /><br>
