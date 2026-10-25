@@ -1,37 +1,12 @@
-<!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
-<table border="0" width="100%">
-  <tr>
-    <!-- LEFT SIDE: Main Visual Artwork -->
-    <td width="45%" valign="top" align="center">
-      <img src="azure 3.png" width="100%" style="border-radius: 8px;" />
-    </td>
- <!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
-<table border="0" width="100%">
- 
+<p align="center">
+  <!-- TOP HEADER BORDER GRAPHIC (e.g., Lace or stars) -->
+  <img src="YOUR_TOP_LACE_BORDER_URL" width="100%" alt="top border" /><br>
 
-<!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
-<table border="0" width="100%">
-  <tr>
-    
-<div align="center">
-    
-<img align="right" src="azure 2.png" width="700" />
+  <!-- MID-SECTION GRID: SIDE-BY-SIDE IMAGES (Keep tags completely touching) -->
+  <img src="LEFT_CHARACTER_IMAGE_URL" width="50%" alt="left panel" /><img src="RIGHT_CHARACTER_IMAGE_URL" width="50%" alt="right panel" /><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Angel";"Wings"&color=ABDFE0)](https://git.io/typing-svg)
-<!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
-<table border="0" width="100%">
-<table>
-  <tr>
-    <!-- LEFT SIDE: CHARACTER ARTWORK -->
-    <td valign="top" width="45%">
-      <!-- Replace the URL below with your actual main character image link -->
-      <img src="https://placehold.co" width="100%" alt="Character Art" />
-
-
-<font color="#FFB6C1">This text will be light pink!</font>
-<font color="#D1C4E9">This text will be light purple!</font>
-
-
-
+  <!-- BOTTOM FOOTER BORDER GRAPHIC -->
+  <img src="YOUR_BOTTOM_LACE_BORDER_URL" width="100%" alt="bottom border" />
+</p>
 
 
