@@ -21,7 +21,23 @@
   <tr>
    
     
-
+<table>
+  <tr>
+    <!-- LEFT SIDE: YOUR MAIN CHARACTER IMAGE -->
+    <td valign="top" width="50%">
+      <img src="YOUR_IMAGE_URL_HERE" width="100%" />
+    </td>
+    
+    <!-- RIGHT SIDE: YOUR BIO TEXT AND BADGES -->
+    <td valign="top" width="50%">
+      <p>🐾 Every other day I'm wondering...</p>
+      <p>What's a human being gotta be like? ⊹ ˚. ✦</p>
+      <br />
+      <!-- Your badges go here -->
+      <a href="YOUR_LINK"><img src="https://shields.io" /></a>
+    </td>
+  </tr>
+</table>
 
 
 
