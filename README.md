@@ -22,7 +22,7 @@
   <img src="stars grey.webp" width="100%" /><br>
 
  <!-- 6. BOTTOM FOOTER GRAPHIC -->
-  <img src="texttext.webp" width="100%" />
+  <img src="textext.webp" width="100%" />
   
   <!-- 4. 3 IMAGES SIDE-BY-SIDE (No spaces between tags!) -->
   <img src="img ; 1.webp" width="32%" /><img src="img ; 3.png" width="32%" /><img src="chibi.png" width="32%" /><br>
