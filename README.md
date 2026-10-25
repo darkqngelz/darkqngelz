@@ -26,3 +26,7 @@
   
   <!-- 4. 3 IMAGES SIDE-BY-SIDE (No spaces between tags!) -->
   <img src="img ; 1.webp" width="32%" /><img src="img 2.gifv" width="32%" /><img src="img ; 3.png" width="32%" /><br>
+
+<p align="center">
+  <!-- 1. TOP LACE BORDER GRAPHIC -->
+  <img src="divider bottom.png" width="100%" /><br>
