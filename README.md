@@ -18,9 +18,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Angel";"Wings"&color=ABDFE0)](https://git.io/typing-svg)
 <!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
 <table border="0" width="100%">
-  <tr>
-   
-    
+
+
+
+
+
 <table>
   <tr>
     <!-- LEFT SIDE: YOUR MAIN CHARACTER IMAGE -->
@@ -38,6 +40,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
