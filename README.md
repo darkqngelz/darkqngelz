@@ -1,6 +1,6 @@
 <p align="center">
   <!-- TOP HEADER BORDER GRAPHIC -->
-  <img src="divid grey.png" width="50%" /><br>
+  <img src="divid grey.png" width="100%" /><br>
 
   <!-- TEXT BANNER 1 (EVERYONE COME BACK...) -->
   <img src="heh.webp" width="100%" /><br>
