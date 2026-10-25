@@ -13,7 +13,7 @@
     
 <div align="center">
     
-<img align="right" src="cute chibis.png" width="500" />
+<img align="right" src="azure 2.png" width="500" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="Angel";"Wings"&color=ABDFE0)](https://git.io/typing-svg)
 <!-- THE SIDE-BY-SIDE SPLIT LAYOUT -->
