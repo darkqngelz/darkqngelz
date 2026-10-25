@@ -5,8 +5,7 @@
   <!-- 2. TEXT BANNER 1 -->
   <img src="heh.webp" width="100%" /><br>
 
-  <!-- 3. MAIN CENTER ARTWORK -->
-  <img src="https://placehold.co" width="100%" /><br>
+  
 
   <!-- 4. 3 IMAGES SIDE-BY-SIDE (No spaces between tags!) -->
   <img src="img 1.png" width="32%" /><img src="img 2.webp" width="32%" /><img src="img 3.png" width="32%" /><br>
@@ -17,3 +16,5 @@
   <!-- 6. BOTTOM FOOTER GRAPHIC -->
   <img src="text shiny.webp" width="100%" />
 </p>
+<!-- 3. MAIN CENTER ARTWORK -->
+  <img src="https://placehold.co" width="100%" /><br>
