@@ -1,79 +1,53 @@
 <div align="center">
-  <!-- TOP HEADER BORDER: Replace with a transparent sparkle/lace GIF if you have one -->
-  <img src="https://placehold.co✧+˚.+✦+WELCOME+TO+MY+PROFILE+✦+.˚+✧" width="100%" alt="Top Border" />
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; line-height: 0; padding: 0; margin: 0;">
+    
+    <!-- ROW 1: TOP LACE BORDER -->
+    <tr>
+      <td colspan="3" style="padding: 0; margin: 0;">
+        <img src="YOUR_LACE_TOP_BORDER_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Top Lace" />
+      </td>
+    </tr>
+
+    <!-- ROW 2: TEXT DIVIDER 1 -->
+    <tr>
+      <td colspan="3" style="padding: 0; margin: 0;">
+        <img src="YOUR_TEXT_BANNER_1_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Text Banner 1" />
+      </td>
+    </tr>
+
+    <!-- ROW 3: MAIN BIG CENTER ARTWORK -->
+    <tr>
+      <td colspan="3" style="padding: 0; margin: 0;">
+        <img src="YOUR_MAIN_CENTER_ART_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Main Artwork" />
+      </td>
+    </tr>
+
+    <!-- ROW 4: 3-IMAGE HORIZONTAL PORTRAIT GRID (Must align perfectly) -->
+    <tr>
+      <td width="33.33%" style="padding: 0; margin: 0;">
+        <img src="YOUR_SMALL_LEFT_PORTRAIT_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Left Panel" />
+      </td>
+      <td width="33.34%" style="padding: 0; margin: 0;">
+        <img src="YOUR_SMALL_MIDDLE_PORTRAIT_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Middle Panel" />
+      </td>
+      <td width="33.33%" style="padding: 0; margin: 0;">
+        <img src="YOUR_SMALL_RIGHT_PORTRAIT_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Right Panel" />
+      </td>
+    </tr>
+
+    <!-- ROW 5: TEXT DIVIDER 2 -->
+    <tr>
+      <td colspan="3" style="padding: 0; margin: 0;">
+        <img src="YOUR_TEXT_BANNER_2_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Text Banner 2" />
+      </td>
+    </tr>
+
+    <!-- ROW 6: BOTTOM FOOTER STAMP LAYOUT -->
+    <tr>
+      <td colspan="3" style="padding: 0; margin: 0;">
+        <img src="YOUR_NAME_FOOTER_BANNER_URL" width="100%" style="display: block; margin: 0; padding: 0;" alt="Footer Stamps" />
+      </td>
+    </tr>
+
+  </table>
 </div>
-
-<br>
-
-<table>
-  <tr>
-    <!-- LEFT SIDE COLUMN: CHARACTER ARTWORK & COUNT PANEL -->
-    <td valign="top" width="45%" align="center">
-      
-      <!-- YOUR MAIN IMAGE: Change this URL to your actual image/GIF -->
-      <img src="https://placehold.co" width="100%" alt="Character Art" />
-      
-      <br><br>
-      
-      <!-- LIVE VIEW COUNT PANEL TRACKER -->
-      <!-- IMPORTANT: Replace 'YOUR_USERNAME' with your actual GitHub username! -->
-      <img src="https://komarev.com" alt="Profile Views" />
-
-    </td>
-
-    <!-- RIGHT SIDE COLUMN: BIO TEXT & SOCIAL BUTTONS -->
-    <td valign="top" width="55%">
-      
-      <!-- SPEECH BUBBLE / QUOTE BANNER -->
-      <p align="center">
-        <img src="https://placehold.co🐾+(⸝⸝ᵕᴗᵕ⸝⸝)+~-~" alt="Aesthetic Header" />
-      </p>
-
-      <!-- BIO HIGHLIGHT TEXT -->
-      <p align="left">
-        <blockquote>
-          <b>Every other day I'm wondering...</b><br>
-          <i>What's a human being gotta be like? ⊹ ˚. ✦</i>
-        </blockquote>
-      </p>
-
-      <hr size="1" color="#D1C4E9">
-
-      <!-- COLORFUL BADGE LINKS -->
-      <p align="left">
-        <span>🐾 <b>CONNECT:</b></span><br><br>
-        
-        <!-- Purple Rentry Button -->
-        <a href="YOUR_RENTRY_URL_HERE">
-          <img src="https://shields.io" alt="Rentry Link" />
-        </a>
-        
-        <!-- Pastel Blue Strawpage Button -->
-        <a href="YOUR_STRAWPAGE_URL_HERE">
-          <img src="https://shields.io" alt="Strawpage Link" />
-        </a>
-        
-        <!-- Custom Label Display Badge -->
-        <img src="https://shields.io" alt="Custom Label" />
-      </p>
-
-      <br>
-
-      <!-- EXTRA DETAILS SECTION -->
-      <p align="left">
-        ▷ 𓂂 <b>Status:</b> <i>Lurking around...</i><br>
-        ▷ 𓂂 <b>Interests:</b> Gaming ✦ Pixels ✦ Customizing Layouts
-      </p>
-
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <!-- BOTTOM FOOTER BORDER -->
-  <img src="https://placehold.co🐾+ഒ+𖦹+📋+*+･+🐾" width="100%" alt="Bottom Border" />
-</div>
-
-
