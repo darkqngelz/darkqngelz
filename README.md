@@ -17,4 +17,4 @@
   <img src="text shiny.webp" width="100%" />
 </p>
 <!-- 3. MAIN CENTER ARTWORK -->
-  <img src="https://placehold.co" width="100%" /><br>
+  <img src="divid grey 2.png" width="100%" /><br>
