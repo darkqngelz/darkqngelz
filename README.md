@@ -6,7 +6,7 @@
   <img src="heh.webp" width="100%" /><br>
 
   <!-- MAIN CENTER ARTWORK -->
-  <img src="img 1.png" width="50%" /><br>
+  <img src="img 1.png" width="20%" /><br>
 
   <!-- 3 IMAGES SIDE-BY-SIDE 
   <img src="YOUR_LEFT_IMAGE_URL" width="32%"><img src="YOUR_MIDDLE_IMAGE_URL" width="32%" /><img src="YOUR_RIGHT_IMAGE_URL" width="32%" /><br>
