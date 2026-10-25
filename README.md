@@ -3,7 +3,7 @@
   <tr>
     <!-- LEFT SIDE: Main Visual Artwork -->
     <td width="45%" valign="top" align="center">
-      <img src="azure..png" width="100%" style="border-radius: 8px;" />
+      <img src="azure 2.png" width="100%" style="border-radius: 8px;" />
     </td>
  
 
