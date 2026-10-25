@@ -26,7 +26,8 @@
       <img src="https://placehold.co" width="100%" alt="Character Art" />
 
 
-
+<font color="#FFB6C1">This text will be light pink!</font>
+<font color="#D1C4E9">This text will be light purple!</font>
 
 
 
