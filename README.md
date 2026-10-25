@@ -3,7 +3,7 @@
   <tr>
     <!-- LEFT SIDE: Main Visual Artwork -->
     <td width="45%" valign="top" align="center">
-      <img src="shadow and pure.png" width="100%" style="border-radius: 8px;" />
+      <img src="azure..png" width="100%" style="border-radius: 8px;" />
     </td>
  
 
