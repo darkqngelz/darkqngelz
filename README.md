@@ -15,5 +15,5 @@
   <img src="heheh.png" width="100%" /><br>
 
   <!-- 6. BOTTOM FOOTER GRAPHIC -->
-  <img src="https://placehold.co" width="100%" />
+  <img src="text shiny.webp" width="100%" />
 </p>
