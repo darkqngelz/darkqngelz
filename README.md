@@ -17,7 +17,7 @@
   <img src="text shiny.webp" width="100%" />
 </p>
 <!-- 3. MAIN CENTER ARTWORK -->
-  <img src="divid grey.png" width="100%" /><br>
+  <img src="divid grey 2.png" width="100%" /><br>
   <!-- 3. MAIN CENTER ARTWORK -->
   <img src="stars grey.webp" width="100%" /><br>
 
