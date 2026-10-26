@@ -35,7 +35,7 @@ $\color{#fdf8db}{\text{"𝑑𝑜𝑒𝑠 𝑚𝑦}}$  $\color{#dae3c6}{\text{�
 𝑏𝑖𝑡𝑡𝑒𝑟 }}$  $\color{#939aa2}{\text{𝑤𝑜𝑟𝑑𝑠 𝑓𝑜𝑟 𝑡ℎ𝑜𝑠𝑒}}$  $\color{#66728a}{\text{𝑤ℎ𝑜 𝑎𝑟𝑒 𝑑𝑒𝑎𝑟 𝑡𝑜 𝑚𝑒?”‧˚꒰🐾୭ ˚.}}$
 $\color{#fdf8db}{\text{────୨ৎ────}}$
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=88DEB1&center=true&vCenter=true&width=500&lines=..+You Are;The;Most+Goregeous 𓏼 " />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=88DEB1&center=true&vCenter=true&width=500&lines=..+You are;My;Fallen+Angel 𐂯ᩙ᩠𓏼 " />
 </div>
 
 </div>
