@@ -23,7 +23,7 @@
 
 `Friendly!!` • `Offtab =slow response` • `INT`
 
-[card](LINK) | [strawpage](LINK)
+[ata](LINK) | [strawpage](https://zanys-info.straw.page)
 
 </div>
 
