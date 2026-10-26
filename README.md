@@ -16,7 +16,9 @@
   <img src="sniffzz.png" width="400" alt="Profile Mascot">
 </kbd>
 
-### 🛠️ Tech Stack & Focus
+⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
+၇ৎㅤ˖ㅤ࣪ㅤproﾉnouns  $\color{#fdf8db}{\text{heﾉhim.}}$
+. ݁ ˖ㅤ00 $\color{#dae3c6}{\text{heart,}}$
 `Frontend` • `UI Design` • `Open Source`
 
 [Projects](LINK) | [Discussions](LINK)
