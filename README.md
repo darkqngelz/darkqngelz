@@ -28,7 +28,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
 
 `Friendly!!` • `Offtab =slow response` • `INT`
 
-[ata](LINK) | [strawpage](https://zanys-info.straw.page)
+[ata 𐂯ᩙ᩠𓏼](https://qngel.atabook.org) | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
 </div>
 
