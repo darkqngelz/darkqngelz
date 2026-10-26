@@ -8,7 +8,7 @@
   
 
   <!-- 4. 3 IMAGES SIDE-BY-SIDE (No spaces between tags!) -->
-  <img src="img colored.png" width="32%" /><img src="img 2 colored.webp" width="32%" /><img src="img 2 colored.png" width="32%" /><br>
+  <img src="img colored.png" width="32%" /><img src="img 2 colored.webp" width="32%" /><img src="img colored 2.png" width="32%" /><br>
 
   <!-- 5. TEXT BANNER 2 -->
   <img src="heheh.png" width="100%" /><br>
