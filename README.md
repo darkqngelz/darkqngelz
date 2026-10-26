@@ -8,7 +8,20 @@
  $\color{#fdf8db}{\text{"Hold my}}$  $\color{#dae3c6}{\text{heart,}}$   $\color{#a2bcb9}{\text{its beating}}$   $\color{#939aa2}{\text{for you}}$   $\color{#66728a}{\text{anyways."}}$
 <div align="center">
 
+<div align="center">
 
+# ✨ Hello, World! ✨
+
+<kbd>
+  <img src="YOUR_IMAGE_URL" width="150" alt="Profile Mascot">
+</kbd>
+
+### 🛠️ Tech Stack & Focus
+`Frontend` • `UI Design` • `Open Source`
+
+[Projects](LINK) | [Discussions](LINK)
+
+</div>
 
 </div>
  <p align="center">
