@@ -5,7 +5,7 @@
   <!-- 2. TEXT BANNER 1 -->
   <img src="akitoya.png" width="100%" /><br>
 
-  $\color{#dae3c6}{\text{"Hold}$  $\color{#a2bcb9}{\text{my}$  $\color{#939aa2}{\text{heart,}$  $\color{#66728a}{\text{it's beating}$ $\color{#fdf8db}{\text{for you}$ $\color{#dae3c6}{\text{anyways."}$
+ $\color{#fdf8db}{\text{"Hold my}}$  $\color{#dae3c6}{\text{heart,}}$   $\color{#a2bcb9}{\text{its beating}}$   $\color{#939aa2}{\text{for you}}$   $\color{#66728a}{\text{anyways."}}$
 
  <p align="center">
   <!-- 1. TOP LACE BORDER GRAPHIC -->
