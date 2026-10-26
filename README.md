@@ -25,7 +25,7 @@
   <img src="textext.webp" width="100%" />
   
   <!-- 4. 3 IMAGES SIDE-BY-SIDE (No spaces between tags!) -->
-  <img src="img ; 1.webp" width="32%" /><img src="img ; 3.png" width="32%" /><img src="chibi.png" width="32%" /><br>
+  <img src="colored img.png" width="32%" /><img src="colored img 2.png" width="32%" /><img src="chibi colored.png" width="32%" /><br>
 
 <p align="center">
   <!-- 1. TOP LACE BORDER GRAPHIC -->
