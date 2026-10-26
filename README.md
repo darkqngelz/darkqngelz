@@ -3,7 +3,7 @@
   <img src="sniff divider.png" width="100%" /><br>
 $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\text{Wi}}$  $\color{#939aa2}{\text{ngs."}}$ 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line;Second+line)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Typing+SVG&width=400&height=50&size=20&font=monospace&color=F724A9
 
 
   <!-- 2. TEXT BANNER 1 -->
