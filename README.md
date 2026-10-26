@@ -17,9 +17,9 @@
   <img src="shiny text colored.webp" width="100%" />
 </p>
 <!-- 3. MAIN CENTER ARTWORK -->
-  <img src="divid grey 2.png" width="100%" /><br>
+  <img src="colored divider.png" width="100%" /><br>
   <!-- 3. MAIN CENTER ARTWORK -->
-  <img src="stars grey.webp" width="100%" /><br>
+  <img src="stars colored.webp" width="100%" /><br>
 
  <!-- 6. BOTTOM FOOTER GRAPHIC -->
   <img src="textext.webp" width="100%" />
