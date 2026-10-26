@@ -10,7 +10,7 @@
 
 <div align="center">
 
- $\color{#fdf8db}{\text{ # ✨ Hello, World! ✨}}$ # 
+ $\color{#fdf8db}{\text{Info . }}$
 
 <kbd>
   <img src="sniffzz.png" width="400" alt="Profile Mascot">
