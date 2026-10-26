@@ -17,7 +17,7 @@
 </kbd>
 
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
-၇ৎㅤ˖ㅤ࣪ㅤ $\color{#fdf8db}{\text{heﾉhim.}}$
+၇ৎㅤ˖ㅤ࣪ㅤ $\color{#fdf8db}{\text{heﾉhim/they.}}$
 . ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
 
 
