@@ -25,7 +25,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
 ၇ৎㅤ˖ㅤ࣪ㅤ $\color{#fdf8db}{\text{heﾉhim/they.}}$
 . ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
- $\color{#fdf8db}{\text{"Bu}}$  $\color{#dae3c6}{\text{sy,}}$   $\color{#a2bcb9}{\text{Monday through}}$   $\color{#939aa2}{\text{Fri}}$   $\color{#66728a}{\text{day."}}$
+ $\color{#fdf8db}{\text{"Busy}}$  $\color{#dae3c6}{\text{alot,}}$   $\color{#a2bcb9}{\text{Monday through}}$   $\color{#939aa2}{\text{Fri}}$   $\color{#66728a}{\text{day."}}$
 <div align="center"
 
 `Friendly!!` • `Offtab =slow response` • `INT`
