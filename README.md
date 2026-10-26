@@ -10,8 +10,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
   <!-- 2. TEXT BANNER 1 -->
   <img src="sniff.png" border="2" width="700">
 
- $\color{#fdf8db}{\text{"Hold my}}$  $\color{#dae3c6}{\text{heart,}}$   $\color{#a2bcb9}{\text{its beating}}$   $\color{#939aa2}{\text{for you}}$   $\color{#66728a}{\text{anyways."}}$
-<div align="center">
+>
 
 <div align="center">
 
