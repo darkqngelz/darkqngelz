@@ -3,7 +3,7 @@
   <img src="sniff divider.png" width="100%" /><br>
 $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\text{Wi}}$  $\color{#939aa2}{\text{ngs."}}$ 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=88DEB1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=88DEB1&center=true&vCenter=true&width=500&lines=Semi-Afk+You are;My;Fallen+Angel" />
 
 
 
