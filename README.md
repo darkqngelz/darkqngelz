@@ -13,7 +13,7 @@
 # ✨ Hello, World! ✨
 
 <kbd>
-  <img src="YOUR_IMAGE_URL" width="150" alt="Profile Mascot">
+  <img src="snifzz.png" width="150" alt="Profile Mascot">
 </kbd>
 
 ### 🛠️ Tech Stack & Focus
