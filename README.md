@@ -10,7 +10,7 @@
 
 <div align="center">
 
- $\color{#fdf8db}{\text{Info . }}$
+ $\color{#fdf8db}{\text{ bmf or . }}$ $\color{#dae3c6}{\text{cuddle freely . !}}$ 
 
 <kbd>
   <img src="sniffzz.png" width="400" alt="Profile Mascot">
