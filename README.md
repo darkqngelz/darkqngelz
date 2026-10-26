@@ -11,7 +11,7 @@
   <!-- 1. TOP LACE BORDER GRAPHIC -->
   <img src="belt divid.png" width="100%" /><br>
 
- 
+ <img src="YOUR_IMAGE_URL" border="2" width="200">
 
     
   
