@@ -21,9 +21,9 @@
 . ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
 
 
-`Frontend` • `UI Design` • `Open Source`
+`Friendly` • `Shy` • `INT`
 
-[Projects](LINK) | [Discussions](LINK)
+[card](LINK) | [strawpage](LINK)
 
 </div>
 
