@@ -12,7 +12,6 @@
   <img src="belt divid.png" width="100%" /><br>
 
  
-<div align="center">
-  <div style="border: 1px solid #30363d; border-radius: 6px; padding: 20px; max-width: 400px; background-color: #0d1117;">
+
     
   
