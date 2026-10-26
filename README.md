@@ -29,4 +29,4 @@
 
 <p align="center">
   <!-- 1. TOP LACE BORDER GRAPHIC -->
-  <img src="divider bottom.png" width="100%" /><br>
+  <img src="bottom divider colored.png" width="100%" /><br>
