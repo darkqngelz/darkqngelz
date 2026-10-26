@@ -18,7 +18,7 @@
 
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
 ၇ৎㅤ˖ㅤ࣪ㅤ $\color{#fdf8db}{\text{heﾉhim.}}$
-. ݁ ˖ㅤ00 $\color{#dae3c6}{\text{heart,}}$
+. ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
 
 
 `Frontend` • `UI Design` • `Open Source`
