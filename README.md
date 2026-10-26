@@ -30,6 +30,11 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
 
 [ata 𐂯ᩙ᩠𓏼](https://qngel.atabook.org) | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
+────୨ৎ────
+"𝑑𝑜𝑒𝑠 𝑚𝑦 𝑝𝑒𝑛 𝑜𝑛𝑙𝑦 𝑤𝑟𝑖𝑡𝑒
+𝑏𝑖𝑡𝑡𝑒𝑟 𝑤𝑜𝑟𝑑𝑠 𝑓𝑜𝑟 𝑡ℎ𝑜𝑠𝑒
+𝑤ℎ𝑜 𝑎𝑟𝑒 𝑑𝑒𝑎𝑟 𝑡𝑜 𝑚𝑒?”‧˚꒰🐾୭ ˚.
+────୨ৎ────
 </div>
 
 </div>
