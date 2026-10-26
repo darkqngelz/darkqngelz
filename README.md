@@ -21,7 +21,7 @@
 . ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
 
 
-`Friendly` • `Shy` • `INT`
+`Friendly!!` • `Offtab =slow response` • `INT`
 
 [card](LINK) | [strawpage](LINK)
 
