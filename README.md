@@ -11,7 +11,7 @@
   <img src="img colored.png" width="32%" /><img src="img 2 colored.webp" width="32%" /><img src="img colored 2.png" width="32%" /><br>
 
   <!-- 5. TEXT BANNER 2 -->
-  <img src="heheh.png" width="100%" /><br>
+  <img src="divider stickers colored.png" width="100%" /><br>
 
   <!-- 6. BOTTOM FOOTER GRAPHIC -->
   <img src="text shiny.webp" width="100%" />
