@@ -3,7 +3,7 @@
   <img src="belt divid.png" width="100%" /><br>
 
   <!-- 2. TEXT BANNER 1 -->
-  <img src="akitoya" width="100%" /><br>
+  <img src="akitoya.png" width="100%" /><br>
 
   
 
