@@ -2,8 +2,9 @@
   <!-- 1. TOP LACE BORDER GRAPHIC -->
   <img src="sniff divider.png" width="100%" /><br>
 $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\text{Wi}}$  $\color{#939aa2}{\text{ngs."}}$ 
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World;Typing+SVG&width=400&height=50&size=20&font=monospace&color=F724A9
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=CC785C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast" />
+
 
 
   <!-- 2. TEXT BANNER 1 -->
