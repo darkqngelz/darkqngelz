@@ -3,7 +3,7 @@
   <img src="divid grey.png" width="100%" /><br>
 
   <!-- 2. TEXT BANNER 1 -->
-  <img src="heh .webp" width="100%" /><br>
+  <img src="heh.webp" width="100%" /><br>
 
   
 
