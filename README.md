@@ -11,4 +11,4 @@
   <!-- 1. TOP LACE BORDER GRAPHIC -->
   <img src="belt divid.png" width="100%" /><br>
 
-  
+  $\color{#821b1b}{\text{YOUR TEXT}}$
