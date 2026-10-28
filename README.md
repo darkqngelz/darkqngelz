@@ -8,7 +8,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#ef473a}{\text{gel .}}$ $\color{#ef473a}{\
 
 
   <!-- 2. TEXT BANNER 1 -->
-  <img src="guesty.png" border="2" width="400">
+  <img src="guest 666 chibi.png" border="2" width="400">
 
 
  $\color{#fdf8db}{\text{"Hold my}}$  $\color{#241f1a}{\text{heart,}}$   $\color{#cb2c3e}{\text{its beating}}$   $\color{#31132d}{\text{for you}}$   $\color{#31132d}{\text{anyways."}}$
