@@ -41,6 +41,9 @@
   <img src="redz.png" width="100%" /><br>
 
 
+<kbd>
+  <img src="wumbz and guest.png" width="400" alt="Profile Mascot">
+</kbd>
 
     
   
