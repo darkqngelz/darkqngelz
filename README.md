@@ -45,6 +45,6 @@
   <img src="wumbz and guest.png" width="400" alt="Profile Mascot">
 </kbd>
 
-[wumbz 𓏼](https://zanys-info.straw.page)
+[wumbz my frien 𓏼](https://github.com/tirgery123)
     
   
