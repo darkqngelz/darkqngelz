@@ -19,7 +19,7 @@
  $\color{#ef473a}{\text{ bmf or . }}$ $\color{#ef473a}{\text{cuddle freely . !}}$ 
 
 <kbd>
-  <img src="guest 666.png" width="300" alt="Profile Mascot">
+  <img src="guest 666.png" width="400" alt="Profile Mascot">
 </kbd>
 
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
