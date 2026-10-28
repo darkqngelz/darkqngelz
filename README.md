@@ -1,7 +1,7 @@
 <p align="center">
   <!-- 1. TOP LACE BORDER GRAPHIC -->
   <img src="red divider 1.png" width="50%" /><br>
-$\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\text{Wi}}$  $\color{#939aa2}{\text{ngs."}}$ 
+$\color{#fdf8db}{\text{"An}}$ $\color{#ef473a}{\text{gel .}}$ $\color{#ef473a}{\text{Wi}}$  $\color{#939aa2}{\text{ngs."}}$ 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffd7c1&center=true&vCenter=true&width=500&lines=..+You are My;Fallen+Angel 𓏼 " />
 
@@ -16,7 +16,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
 
 <div align="center">
 
- $\color{#fdf8db}{\text{ bmf or . }}$ $\color{#dae3c6}{\text{cuddle freely . !}}$ 
+ $\color{#ef473a}{\text{ bmf or . }}$ $\color{#ef473a}{\text{cuddle freely . !}}$ 
 
 <kbd>
   <img src="guest 666.png" width="300" alt="Profile Mascot">
@@ -25,7 +25,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
 ၇ৎㅤ˖ㅤ࣪ㅤ $\color{#fdf8db}{\text{heﾉhim/they.}}$
 . ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
- $\color{#fdf8db}{\text{"Busy}}$  $\color{#dae3c6}{\text{alot,}}$   $\color{#a2bcb9}{\text{Monday through}}$   $\color{#939aa2}{\text{Fri}}$   $\color{#66728a}{\text{day."}}$
+ $\color{#fdf8db}{\text{"Busy}}$  $\color{#ef473a}{\text{alot,}}$   $\color{#ef473a}{\text{Monday through}}$   $\color{#ef473a}{\text{Fri}}$   $\color{#ef473a}{\text{day."}}$
 <div align="center"
 
 `Friendly!!` • `Offtab =slow response` • `INT`
