@@ -28,14 +28,10 @@
 <div align="center"
 
 
-[wip 𐂯ᩙ᩠𓏼](https://qngel.atabook.org) | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
+[wip 𐂯ᩙ᩠𓏼] | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
 
 
-$\color{#ffd7c1}{\text{────୨ৎ────}}$
-$\color{#ef473a}{\text{"𝑑𝑜𝑒𝑠 𝑚𝑦}}$  $\color{#cb2c3e}{\text{𝑝𝑒𝑛 𝑜𝑛𝑙𝑦 }}$ $\color{#cb2c3e}{\text{𝑤𝑟𝑖𝑡𝑒
-𝑏𝑖𝑡𝑡𝑒𝑟 }}$  $\color{#31132d}{\text{𝑤𝑜𝑟𝑑𝑠 𝑓𝑜𝑟 𝑡ℎ𝑜𝑠𝑒}}$  $\color{#ffd7c1}{\text{𝑤ℎ𝑜 𝑎𝑟𝑒 𝑑𝑒𝑎𝑟 𝑡𝑜 𝑚𝑒?”‧˚꒰🐾୭ ˚.}}$
-$\color{#fdf8db}{\text{────୨ৎ────}}$
 
 
 </div>
