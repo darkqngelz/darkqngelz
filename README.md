@@ -7,7 +7,8 @@
 
 
   <!-- 2. TEXT BANNER 1 -->
-  <img src="guest 666 chibi.png" border="2" width="700">
+  <kbd>
+  <img src="guest 666 chibi.png" width="700" alt="Profile Mascot">
 
 
  $\color{#fdf8db}{\text{"Hold my}}$  $\color{#ef473a}{\text{heart,}}$   $\color{#cb2c3e}{\text{its beating}}$   $\color{#31132d}{\text{for you}}$   $\color{#ef473a}{\text{anyways."}}$
