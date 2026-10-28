@@ -10,7 +10,7 @@
   <img src="guest 666 chibi.png" border="2" width="700">
 
 
- $\color{#fdf8db}{\text{"Hold my}}$  $\color{#241f1a}{\text{heart,}}$   $\color{#cb2c3e}{\text{its beating}}$   $\color{#31132d}{\text{for you}}$   $\color{#31132d}{\text{anyways."}}$
+ $\color{#fdf8db}{\text{"Hold my}}$  $\color{#ef473a}{\text{heart,}}$   $\color{#cb2c3e}{\text{its beating}}$   $\color{#31132d}{\text{for you}}$   $\color{#ef473a}{\text{anyways."}}$
 <div align="center"
 
 <div align="center">
