@@ -2,6 +2,7 @@
   <!-- 1. TOP LACE BORDER GRAPHIC -->
   <img src="red divider 1.png" width="100%" /><br>
 
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ef473a&center=true&vCenter=true&width=500&lines=..+All shell of their former self 𓏼 " />
 
 
