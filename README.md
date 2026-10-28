@@ -1,6 +1,6 @@
 <p align="center">
   <!-- 1. TOP LACE BORDER GRAPHIC -->
-  <img src="red divider 1.png" width="100%" /><br>
+  <img src="redz.png" width="100%" /><br>
 
 
 
@@ -43,7 +43,7 @@ $\color{#fdf8db}{\text{────୨ৎ────}}$
 </div>
  <p align="center">
   <!-- 1. TOP LACE BORDER GRAPHIC -->
-  <img src="red divider 2.png" width="100%" /><br>
+  <img src="redz.png" width="100%" /><br>
 
 
 
