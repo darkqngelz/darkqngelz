@@ -11,7 +11,7 @@
   <img src="guest 666 chibi.png" width="500" alt="Profile Mascot">
 
 
- $\color{#fdf8db}{\text{"A}}$  $\color{#ef473a}{\text{shell of,}}$   $\color{#cb2c3e}{\text{their}}$   $\color{#31132d}{\text{former}}$   $\color{#ef473a}{\text{self."}}$
+ $\color{#fdf8db}{\text{"A}}$  $\color{#ef473a}{\text{shell of}}$   $\color{#cb2c3e}{\text{their}}$   $\color{#31132d}{\text{former}}$   $\color{#ef473a}{\text{self."}}$
 <div align="center"
 
 <div align="center">
