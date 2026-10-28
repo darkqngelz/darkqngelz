@@ -23,8 +23,8 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#ef473a}{\text{gel .}}$ $\color{#ef473a}{\
 </kbd>
 
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
-၇ৎㅤ˖ㅤ࣪ㅤ $\color{#fdf8db}{\text{heﾉhim/they.}}$
-. ݁ ˖ㅤ00 $\color{#dae3c6}{\text{wishing for 100 followerss . ,}}$
+၇ৎㅤ˖ㅤ࣪ㅤ $\color{#ef473a}{\text{heﾉhim/they.}}$
+. ݁ ˖ㅤ00 $\color{#ef473a}{\text{wishing for 100 followerss . ,}}$
  $\color{#fdf8db}{\text{"Busy}}$  $\color{#ef473a}{\text{alot,}}$   $\color{#ef473a}{\text{Monday through}}$   $\color{#ef473a}{\text{Fri}}$   $\color{#ef473a}{\text{day."}}$
 <div align="center"
 
