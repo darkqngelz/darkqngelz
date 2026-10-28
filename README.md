@@ -19,7 +19,7 @@ $\color{#fdf8db}{\text{"An}}$ $\color{#dae3c6}{\text{gel .}}$ $\color{#a2bcb9}{\
  $\color{#fdf8db}{\text{ bmf or . }}$ $\color{#dae3c6}{\text{cuddle freely . !}}$ 
 
 <kbd>
-  <img src="guest 666.png" width="400" alt="Profile Mascot">
+  <img src="guest 666.png" width="300" alt="Profile Mascot">
 </kbd>
 
 ⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
