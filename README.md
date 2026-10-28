@@ -3,7 +3,7 @@
   <img src="red divider 1.png" width="50%" /><br>
 $\color{#fdf8db}{\text{"An}}$ $\color{#ef473a}{\text{gel .}}$ $\color{#ef473a}{\text{Wi}}$  $\color{#939aa2}{\text{ngs."}}$ 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ffd7c1&center=true&vCenter=true&width=500&lines=..+You are My;Fallen+Angel 𓏼 " />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=ef473a&center=true&vCenter=true&width=500&lines=..+All shell of their former;self 𓏼 " />
 
 
 
