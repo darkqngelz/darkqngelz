@@ -22,8 +22,7 @@
   <img src="guest 666.png" width="400" alt="Profile Mascot">
 </kbd>
 
-⏝⏝⏝ ⠀ ݁ ⠀꒡ ͝ ˖
-၇ৎㅤ˖ㅤ࣪ㅤ $\color{#ef473a}{\text{heﾉhim/they.}}$
+ㅤ࣪ㅤ $\color{#ef473a}{\text{heﾉhim/they.}}$
  $\color{#fdf8db}{\text{"Busy}}$  $\color{#ef473a}{\text{alot,}}$   $\color{#ef473a}{\text{Monday through}}$   $\color{#ef473a}{\text{Fri}}$   $\color{#ef473a}{\text{day."}}$
 <div align="center"
 
