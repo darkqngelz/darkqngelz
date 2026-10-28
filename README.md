@@ -7,7 +7,7 @@
 
 
   <!-- 2. TEXT BANNER 1 -->
-  <img src="guest 666 chibi.png" border="2" width="400">
+  <img src="guest 666 chibi.png" border="2" width="700">
 
 
  $\color{#fdf8db}{\text{"Hold my}}$  $\color{#241f1a}{\text{heart,}}$   $\color{#cb2c3e}{\text{its beating}}$   $\color{#31132d}{\text{for you}}$   $\color{#31132d}{\text{anyways."}}$
@@ -29,7 +29,7 @@
 
 `Friendly!!` • • `INT`
 
-[ata 𐂯ᩙ᩠𓏼](https://qngel.atabook.org) | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
+[wip 𐂯ᩙ᩠𓏼](https://qngel.atabook.org) | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
 $\color{#ffd7c1}{\text{────୨ৎ────}}$
 $\color{#ef473a}{\text{"𝑑𝑜𝑒𝑠 𝑚𝑦}}$  $\color{#cb2c3e}{\text{𝑝𝑒𝑛 𝑜𝑛𝑙𝑦 }}$ $\color{#cb2c3e}{\text{𝑤𝑟𝑖𝑡𝑒
