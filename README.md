@@ -1,8 +1,5 @@
 
 
- <!-- 2. TEXT BANNER 1 -->
-  <kbd>
-  <img src="blade.png" width="500" alt="Profile Mascot">
 
 
 
