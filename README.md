@@ -5,7 +5,7 @@
 
   <!-- 2. TEXT BANNER 1 -->
   <kbd>
-  <img src="blade 2 chibi.png" width="500" alt="Profile Mascot">
+  <img src="blade.png" width="500" alt="Profile Mascot">
 
 
  $\color{#fdf8db}{\text{"A}}$  $\color{#ef473a}{\text{shell of}}$   $\color{#cb2c3e}{\text{their}}$   $\color{#31132d}{\text{former}}$   $\color{#ef473a}{\text{self."}}$
