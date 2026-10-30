@@ -2,7 +2,7 @@
 
 
  <kbd>
-  <img src="blade 2 chibi.png" width="600" alt="Profile Mascot">
+  <img src="angel 1.png" width="600" alt="Profile Mascot">
 
   
 
