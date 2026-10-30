@@ -4,9 +4,7 @@
  <kbd>
   <img src="blade 2 chibi.png" width="600" alt="Profile Mascot">
 
-  <!-- 2. TEXT BANNER 1 -->
-  <kbd>
-  <img src="blade.png" width="800" alt="Profile Mascot">
+  
 
 
  $\color{#fdf8db}{\text{"A}}$  $\color{#ef473a}{\text{shell of}}$   $\color{#cb2c3e}{\text{their}}$   $\color{#31132d}{\text{former}}$   $\color{#ef473a}{\text{self."}}$
