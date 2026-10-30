@@ -2,7 +2,7 @@
 
 
  <kbd>
-  <img src="gothic.webp" width="600" alt="Profile Mascot">
+  <img src="goth.webp" width="600" alt="Profile Mascot">
 
   
 
