@@ -1,8 +1,8 @@
-
+<img src="black divider.png" width="600" alt="Profile Mascot">
 
 
  <kbd>
-  <img src="angel 1.png" width="600" alt="Profile Mascot">
+  <img src="gothic.webp" width="600" alt="Profile Mascot">
 
   
 
@@ -22,7 +22,7 @@
 <div align="center"
 
  <kbd>
-  <img src="angelz.png" width="600" alt="Profile Mascot">
+  <img src="black divider.png" width="600" alt="Profile Mascot">
 
 [wip 𐂯ᩙ᩠𓏼] | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
