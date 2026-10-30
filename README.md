@@ -21,6 +21,8 @@
  $\color{#fdf8db}{\text{"Busy}}$  $\color{#ef473a}{\text{alot,}}$   $\color{#ef473a}{\text{Monday through}}$   $\color{#ef473a}{\text{Fri}}$   $\color{#ef473a}{\text{day."}}$
 <div align="center"
 
+ <kbd>
+  <img src="angelz.png" width="600" alt="Profile Mascot">
 
 [wip 𐂯ᩙ᩠𓏼] | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
