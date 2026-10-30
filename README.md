@@ -34,10 +34,6 @@
 
 
 
-<kbd>
-  <img src="wumbz and guest.png" width="400" alt="Profile Mascot">
-</kbd>
-
 [wumble my wonderful github friend 𓏼](https://github.com/tirgery123)
     
   
