@@ -1,6 +1,4 @@
-<p align="center">
-  <!-- 1. TOP LACE BORDER GRAPHIC -->
-  <img src="redz.png" width="100%" /><br>
+
 
 
 
@@ -19,7 +17,7 @@
  $\color{#ef473a}{\text{ bmf / c+h . }}$ 
 
 <kbd>
-  <img src="guest 666.png" width="400" alt="Profile Mascot">
+  <img src="blade.png" width="400" alt="Profile Mascot">
 </kbd>
 
 ㅤ࣪ㅤ $\color{#ef473a}{\text{heﾉhim/they.}}$
@@ -33,12 +31,6 @@
 
 
 
-</div>
-
-</div>
- <p align="center">
-  <!-- 1. TOP LACE BORDER GRAPHIC -->
-  <img src="redz.png" width="100%" /><br>
 
 
 <kbd>
