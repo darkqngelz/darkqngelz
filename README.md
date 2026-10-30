@@ -1,7 +1,8 @@
 
 
 
-
+ <kbd>
+  <img src="blade 2 chibi.png" width="800" alt="Profile Mascot">
 
   <!-- 2. TEXT BANNER 1 -->
   <kbd>
