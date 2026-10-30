@@ -26,7 +26,7 @@
 
 [wip 𐂯ᩙ᩠𓏼] | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
-
+idk smb make me a read.me because i change it sm tryna make it pretty
 
 
 
