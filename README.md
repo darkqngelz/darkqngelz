@@ -1,6 +1,6 @@
+
+
 <img src="black divider.png" width="600" alt="Profile Mascot">
-
-
  <kbd>
   <img src="goth.webp" width="600" alt="Profile Mascot">
 
