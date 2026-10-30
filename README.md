@@ -7,7 +7,7 @@
   
 
 
- $\color{#fdf8db}{\text{"A}}$  $\color{#ef473a}{\text{shell of}}$   $\color{#cb2c3e}{\text{their}}$   $\color{#31132d}{\text{former}}$   $\color{#ef473a}{\text{self."}}$
+ $\color{#5c4d76}{\text{"A}}$  $\color{#3f325e}{\text{shell of}}$   $\color{#281f3e}{\text{their}}$   $\color{#171022}{\text{former}}$   $\color{#281f3e}{\text{self."}}$
 <div align="center"
 
 <div align="center">
@@ -18,7 +18,7 @@
 </kbd>
 
 ㅤ࣪ㅤ $\color{#ef473a}{\text{heﾉhim/they.}}$
- $\color{#fdf8db}{\text{"Busy}}$  $\color{#ef473a}{\text{alot,}}$   $\color{#ef473a}{\text{Monday through}}$   $\color{#ef473a}{\text{Fri}}$   $\color{#ef473a}{\text{day."}}$
+ $\color{#fdf8db}{\text{"Busy}}$  $\color{#5c4d76}{\text{alot,}}$   $\color{#3f325e}{\text{Monday through}}$   $\color{#281f3e}{\text{Fri}}$   $\color{#171022}{\text{day."}}$
 <div align="center"
 
  <kbd>
