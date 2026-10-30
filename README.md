@@ -18,7 +18,7 @@
 </kbd>
 
 ㅤ࣪ㅤ $\color{#ef473a}{\text{heﾉhim/they.}}$
- $\color{#fdf8db}{\text{"Busy}}$  $\color{#5c4d76}{\text{alot,}}$   $\color{#3f325e}{\text{Monday through}}$   $\color{#281f3e}{\text{Fri}}$   $\color{#171022}{\text{day."}}$
+ $\color{#5c4d76}{\text{"Busy}}$  $\color{#5c4d76}{\text{alot,}}$   $\color{#3f325e}{\text{Monday through}}$   $\color{#281f3e}{\text{Fri}}$   $\color{#171022}{\text{day."}}$
 <div align="center"
 
  <kbd>
