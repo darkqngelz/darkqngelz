@@ -18,7 +18,7 @@
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
 ✧ &nbsp; <i>gaming</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-🎧 <b>Single</b> &nbsp;&nbsp;&nbsp;&nbsp; ✉️ <br>
+🎧 <b>Taken</b> &nbsp;&nbsp;&nbsp;&nbsp; ✉️ <br>
 <i>music lover</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔮 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
