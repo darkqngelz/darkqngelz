@@ -8,7 +8,7 @@
 <!-- MAIN TWO-COLUMN BODY SECTION -->
 <table>
 <tr>
-<td valign="top" width="220">
+<td valign="top" width="700">
   <!-- Left Side: Character Image -->
   <img src="two time.png" width="900">
 </td>
