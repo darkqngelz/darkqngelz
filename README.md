@@ -21,8 +21,7 @@
  $\color{#5c4d76}{\text{"Busy}}$  $\color{#5c4d76}{\text{alot,}}$   $\color{#3f325e}{\text{Monday through}}$   $\color{#281f3e}{\text{Fri}}$   $\color{#171022}{\text{day."}}$
 <div align="center"
 
- <kbd>
-  <img src="black divider.png" width="600" alt="Profile Mascot">
+
 
 [wip 𐂯ᩙ᩠𓏼] | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
 
@@ -34,4 +33,6 @@ idk smb make me a read.me because i change it sm tryna make it pretty id appreci
 
 [wumble my wonderful github friend 𓏼](https://github.com/tirgery123)
     
-  
+
+  <kbd>
+  <img src="black divider.png" width="600" alt="Profile Mascot">
