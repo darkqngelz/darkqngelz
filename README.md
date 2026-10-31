@@ -8,8 +8,8 @@
 <!-- LEFT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  10/31/2026 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>// 𝒹ay𝒹reamer</i> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;  <b>Aesthetic</b> .  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>introvert</i> &nbsp; ✦
+&nbsp;&nbsp;&nbsp;&nbsp;  <b>𝓲nt / 𝙗mf . </b> .  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>𝖎𝖓𝖙𝖗𝖔vert</i> &nbsp; ✦
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
