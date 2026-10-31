@@ -30,5 +30,6 @@
  . ─── ── ─
 10/31/2026
 </div>
+
 [spotify](https://spotify.com) ✧ [directory](https://yourlink.com)
 
