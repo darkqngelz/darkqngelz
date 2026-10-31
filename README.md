@@ -17,9 +17,9 @@
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
-✧ &nbsp; <i>gaming</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+✧ &nbsp; <i>𝓹ony𝓽own account only .</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
  <b>𝓽aken</b> &nbsp;&nbsp;&nbsp;&nbsp;  <br>
-<i>music lover</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
+<i>𝓶usic 𝓵over</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
