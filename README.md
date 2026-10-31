@@ -35,4 +35,4 @@ idk smb make me a read.me because i change it sm tryna make it pretty id appreci
     
 
   <kbd>
-  <img src="black divider.png" width="600" alt="Profile Mascot">
+  <img src="black divider.png" width="600" 
