@@ -30,3 +30,7 @@
  . ─── ── ─
 10/31/2026
 </div>
+
+<a href="YOUR_TARGET_WEBSITE_LINK">
+  <img src="YOUR_UPLOADED_IMAGE_URL" width="400" alt="Clickable Card">
+</a>
