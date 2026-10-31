@@ -16,7 +16,7 @@
 <img src="pAInter pressure.png" width="600" align="center" style="margin: 10px;">
 
 
-![Profile view counter](https://komarev.com/ghpvc/…thub-username)
+![Profile view counter](https://komarev.com/ghpvc/?username=darkqngelz)
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
