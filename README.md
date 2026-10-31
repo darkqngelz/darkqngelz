@@ -30,5 +30,5 @@
  . ─── ── ─
 10/31/2026
 </div>
+[spotify](https://spotify.com) ✧ [directory](https://yourlink.com)
 
-<a href="https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V?si=e7a23725d85e42e1"><img src="album..png" width="50"></a>
