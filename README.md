@@ -31,4 +31,4 @@
 10/31/2026
 </div>
 
-<a href="https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V?si=e7a23725d85e42e1"><img src="https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V?si=DvXOLN-bSIagjcH27K3Gtw" width="50"></a>
+<a href="https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V?si=e7a23725d85e42e1"><img src="album..png" width="50"></a>
