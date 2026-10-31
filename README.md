@@ -34,4 +34,4 @@ idk smb make me a read.me because i change it sm tryna make it pretty id appreci
 [wumble my wonderful github friend 𓏼](https://github.com/tirgery123)
     
 
-<img src="black divider.png" width="600" alt="Profile Mascot">
+
