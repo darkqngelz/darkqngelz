@@ -31,5 +31,5 @@
 10/31/2026
 </div>
 
-[𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](https://spotify.com)  ily guys my only <3
+[𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)  ily guys my only <3
 
