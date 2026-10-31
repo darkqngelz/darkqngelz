@@ -13,7 +13,7 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="pAinter pressure.png" width="220" align="center" style="margin: 10px;">
+<img src="pAInter pressure.png" width="700" align="center" style="margin: 10px;">
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
