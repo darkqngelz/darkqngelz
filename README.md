@@ -1,35 +1,11 @@
 <div align="center">
 
-<!-- TOP ROW: Scattered header details -->
-<code>. user</code> &nbsp; / &nbsp; <code>YourName</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✵ <i>they / them</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚖️ Any
-
-<br><br>
-
-<!-- LEFT SIDE FLOATING TEXT & SYMBOLS -->
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🪐 19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>// daydreamer</i> <br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🕸️ <b>Aesthetic</b> . 📌 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>introvert</i> &nbsp; ✦
-</p>
-
-<!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="YOUR_IMAGE_URL_HERE" width="220" align="center" style="margin: 10px;">
-
-<!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
-<p align="right">
-✧ &nbsp; <i>gaming</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-🎧 <b>Taken</b> &nbsp;&nbsp;&nbsp;&nbsp; ✉️ <br>
-<i>music lover</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔮 &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<!-- BOTTOM ROW: Social links and final decorations -->
-( ͡ . . ͡ ) &nbsp; • &nbsp; ⚡ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 [Discord](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp; 📸 [Pinterest](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔍 ⊹
-<br>
-⏱️ ─── ── ─
+| | | |
+| :---: | :---: | :---: |
+| <img src="TOP_LEFT_DECORATION" width="160"> | <p align="center">☁️<br><br><b>jonah</b><br><i>alias</i><br><br>✨</p> | <img src="TOP_RIGHT_CHAR_ART" width="160"> |
+| <img src="MIDDLE_LEFT_CHAR_ART" width="160"> | <p align="center">✦ &nbsp; 20 &nbsp; ✦<br><code>he</code> / <code>it</code> / <code>they</code><br><br>🎵 ─── 🎵<br><br><i>mixed sys</i><br><b>awkward · shy</b></p> | <img src="MIDDLE_RIGHT_DECORATION" width="100"> |
+| <img src="BOTTOM_LEFT_DECORATION" width="120"> | <p align="center">🎨 [portfolio](LINK) &nbsp;•&nbsp; ✉️ [contact](LINK)</p> | <img src="BOTTOM_RIGHT_DECORATION" width="140"> |
 
 </div>
-    
 
 
