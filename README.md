@@ -31,5 +31,5 @@
 10/31/2026
 </div>
 
-[𝓑l00dy𝓑ladez](https://spotify.com) ✧ [𝓦umble](https://spotify.com) ✧ [𝓚ei](https://spotify.com)
+[𝓑l00dy𝓑ladez](https://spotify.com) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](https://spotify.com)
 
