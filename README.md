@@ -18,14 +18,14 @@
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
 ✧ &nbsp; <i>gaming</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-🎧 <b>Single</b> &nbsp;&nbsp;&nbsp;&nbsp;  <br>
+ <b>𝓽aken</b> &nbsp;&nbsp;&nbsp;&nbsp;  <br>
 <i>music lover</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
 
 <!-- BOTTOM ROW: Social links and final decorations -->
-( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Discord](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp;  [Pinterest](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔍 ⊹
+( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Discord](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp;  [Pinterest](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
 <br>
 ⏱️ ─── ── ─
 
