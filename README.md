@@ -1,37 +1,35 @@
-
-
-<img src="black divider.png" width="600" alt="Profile Mascot">
- <kbd>
-  <img src="goth.webp" width="600" alt="Profile Mascot">
-
-  
-
-
- $\color{#5c4d76}{\text{"A}}$  $\color{#3f325e}{\text{shell of}}$   $\color{#281f3e}{\text{their}}$   $\color{#171022}{\text{former}}$   $\color{#281f3e}{\text{self."}}$
-<div align="center"
-
 <div align="center">
 
- $\color{#9a8bc4}{\text{ bmf / c+h . }}$ 
+<!-- TOP ROW: Scattered header details -->
+<code>. user</code> &nbsp; / &nbsp; <code>YourName</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✵ <i>they / them</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚖️ Any
 
+<br><br>
 
-</kbd>
+<!-- LEFT SIDE FLOATING TEXT & SYMBOLS -->
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🪐 19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>// daydreamer</i> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; 🕸️ <b>Aesthetic</b> . 📌 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>introvert</i> &nbsp; ✦
+</p>
 
-ㅤ࣪ㅤ $\color{#9a8bc4}{\text{heﾉhim/they.}}$
- $\color{#5c4d76}{\text{"Busy}}$  $\color{#5c4d76}{\text{alot,}}$   $\color{#3f325e}{\text{Monday through}}$   $\color{#281f3e}{\text{Fri}}$   $\color{#171022}{\text{day."}}$
-<div align="center"
+<!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
+<img src="YOUR_IMAGE_URL_HERE" width="220" align="center" style="margin: 10px;">
 
+<!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
+<p align="right">
+✧ &nbsp; <i>gaming</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+🎧 <b>Single</b> &nbsp;&nbsp;&nbsp;&nbsp; ✉️ <br>
+<i>music lover</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔮 &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
+<br>
 
-[wip 𐂯ᩙ᩠𓏼] | [strawpage 𐂯ᩙ᩠𓏼](https://zanys-info.straw.page)
+<!-- BOTTOM ROW: Social links and final decorations -->
+( ͡ . . ͡ ) &nbsp; • &nbsp; ⚡ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 [Discord](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp; 📸 [Pinterest](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔍 ⊹
+<br>
+⏱️ ─── ── ─
 
-idk smb make me a read.me because i change it sm tryna make it pretty id appreciate it sm if you do
-
-
-
-
-
-[wumble my wonderful github friend 𓏼](https://github.com/tirgery123)
+</div>
     
 
 
