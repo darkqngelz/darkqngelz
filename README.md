@@ -1,33 +1,47 @@
-<div align="center">
+<div align="left">
 
-<!-- TOP ROW: Scattered header details -->
-<code>. user</code> &nbsp; / &nbsp; <code>YourName</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✵ <i>they / them</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚖️ Any
-
-<br><br>
-
-<!-- LEFT SIDE FLOATING TEXT & SYMBOLS -->
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🪐 19 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>// daydreamer</i> <br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🕸️ <b>Aesthetic</b> . 📌 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <i>introvert</i> &nbsp; ✦
-</p>
-
-<!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="two time.png" width="500" align="center" style="margin: 10px;">
-
-<!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
-<p align="right">
-✧ &nbsp; <i>gaming</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-🎧 <b>Single</b> &nbsp;&nbsp;&nbsp;&nbsp; ✉️ <br>
-<i>music lover</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔮 &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<!-- TOP LYRIC SECTION -->
+<p><i>and it would be so fine to spend my whole life with you,<br>on a bicycle built for two ♡</i></p>
 
 <br>
 
-<!-- BOTTOM ROW: Social links and final decorations -->
-( ͡ . . ͡ ) &nbsp; • &nbsp; ⚡ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌐 [Discord](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp; 📸 [Pinterest](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔍 ⊹
+<!-- MAIN TWO-COLUMN BODY SECTION -->
+<table>
+<tr>
+<td valign="top" width="220">
+  <!-- Left Side: Character Image -->
+  <img src="YOUR_CHARACTER_IMAGE_URL_HERE" width="200">
+</td>
+<td valign="top">
+  <!-- Right Side: Profile Details -->
+  🪐 winnie or benji <br>
+  he/him ( 16yo ) dec 8 <br>
+  tmasculine 🏳️‍⚧️ 🟪 <br>
+  hfbpd, please iwcare <br>
+  intp 6w5 so/sp 415 mel <br>
+  <br>
+  💬 mcyt, f1, nhl, etc <br>
+  <br>
+  yumeshipper ; 01, 02, 03 <br>
+  <br>
+  [spotify](YOUR_LINK) ✧ [twt](YOUR_LINK) ✧ [tiktok](YOUR_LINK) <br>
+  ⏳ [directory](YOUR_LINK) (✿◠‿◠)
+</td>
+</tr>
+</table>
+
 <br>
-⏱️ ─── ── ─
+
+<!-- BOTTOM MUSIC PLAYER SECTION -->
+<table>
+<tr>
+<td><img src="YOUR_ALBUM_ART_URL_HERE" width="50"></td>
+<td>
+  <b>Wallows</b><br>
+  <font size="2" color="#8b949e">It's Only Right</font><br>
+  <font size="1">▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █ ▄ ▄ █ ▄ █ ▄ █</font>
+</td>
+</tr>
+</table>
 
 </div>
-
