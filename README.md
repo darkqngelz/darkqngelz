@@ -10,7 +10,7 @@
 <tr>
 <td valign="top" width="220">
   <!-- Left Side: Character Image -->
-  <img src="two time.png" width="700">
+  <img src="two time.png" width="900">
 </td>
 <td valign="top">
   <!-- Right Side: Profile Details -->
