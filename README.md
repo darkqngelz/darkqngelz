@@ -15,8 +15,8 @@
 <td valign="top">
   <!-- Right Side: Profile Details -->
   🪐 winnie or benji <br>
-  he/him ( 16yo ) dec 8 <br>
-  tmasculine 🏳️‍⚧️ 🟪 <br>
+  he/him <br>
+  he/him  <br>
   hfbpd, please iwcare <br>
   intp 6w5 so/sp 415 mel <br>
   <br>
