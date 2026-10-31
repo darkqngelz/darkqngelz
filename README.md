@@ -34,5 +34,5 @@
 [𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)  ily guys my only <3
 
 -  - -- - --- -- - -- - - - - - ---  - --  - -
-ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ. 
+ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  my other beloved people tysm
  -  - - - - - - - - - - - - - -  --  - - - -
