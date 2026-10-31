@@ -31,4 +31,4 @@
 10/31/2026
 </div>
 
-
+<a href="SPOTIFY_SONG_LINK"><img src="ALBUM_ART_URL" width="50"></a>
