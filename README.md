@@ -25,7 +25,7 @@
 <br>
 
 <!-- BOTTOM ROW: Social links and final decorations -->
-( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Discord](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp;  [Pinterest](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
+( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [𝓢trawpage](YOUR_LINK) &nbsp;&nbsp; • &nbsp;&nbsp;  [𝐖ip](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
 <br>
 ⏱️ ─── ── ─
 
