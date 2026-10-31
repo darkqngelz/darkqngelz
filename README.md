@@ -16,7 +16,7 @@
 <img src="pAInter pressure.png" width="600" align="center" style="margin: 10px;">
 
 
-![၇ৎㅤ˖ 𝓵ovesㅤ࣪](https://komarev.com/ghpvc/?username=darkqngelz)
+![loves ](https://komarev.com/ghpvc/?username=darkqngelz)
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
