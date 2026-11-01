@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOP ROW: Scattered header details -->
-<code>. 𝓾ser</code> &nbsp; / &nbsp; <code>𝔃an . 𝔃any </code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✵ <i> 𝓱e / 𝓱im / they . </i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ᴘᴀʀᴀɴᴏɪᴅ / sʜʏ / 𝓼ensitive .
+<code>. 𝓾ser</code> &nbsp; / &nbsp; <code>𝓆ngel . 𝓐ngel </code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✵ <i> 𝓱e / 𝓱im / they . </i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ᴘᴀʀᴀɴᴏɪᴅ / sʜʏ / 𝓼ensitive .
 
 <br><br>
 
