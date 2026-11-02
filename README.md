@@ -37,5 +37,9 @@
 [𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)  ily guys my only <3
 
 -  - -- - --- -- - -- - - - - - ---  - --  - -
-ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  𝓶y 𝓸ther 𝓫eloved 𝓹eople 𝓽ysmm !
+ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  𝓶y 𝓸ther 𝓫eloved 𝓹eople 𝓽ysmm ! 
  -  - - - - - - - - - - - - - -  --  - - - -
+
+- - - - - -  -  - -- -- - -- - - -- - - - - -
+TW: I have fawning (trauma) .  I HATE to argue with anyone because it gives me extreme anxiety. please don't say anything rude unless its a joke.
+- -  - -- - - --  - - - - - - - - - - - - - - -
