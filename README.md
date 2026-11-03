@@ -18,7 +18,6 @@
 
 
 
-![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
@@ -35,6 +34,8 @@
  . ─── ── ─
 10/31/2026
 </div>
+
+![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
 
 [𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)  ily guys my only <3
 
