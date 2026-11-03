@@ -13,7 +13,7 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="Nico di Angelo.png" width="600" align="center" style="margin: 10px;">
+<img src="kitty.png" width="600" align="center" style="margin: 10px;">
 
 
 ![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
