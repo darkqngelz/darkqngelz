@@ -13,7 +13,7 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="Naoi rei.jpg" width="600" align="center" style="margin: 10px;">
+<img src="booky.png" width="600" align="center" style="margin: 10px;">
 
 
 
