@@ -40,7 +40,7 @@
 [𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)  ily guys my only <3
 
 -  - -- - --- -- - -- - - - - - ---  - --  - -
-ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  𝓶y 𝓸ther 𝓫eloved 𝓹eople 𝓽ysmm !  .  
+ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  𝓶y 𝓸ther 𝓫eloved 𝓹eople 𝓽ysmm !  .   Father of 10 or more ,  Grandfather of 20 or more
  -  - - - - - - - - - - - - - -  --  - - - -
 
 - - - - - -  -  - -- -- - -- - - -- - - - - -
