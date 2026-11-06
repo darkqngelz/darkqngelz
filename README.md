@@ -13,7 +13,7 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="bone.gif" width="600" align="center" style="margin: 10px;">
+<img src="bone.gif" width="400" align="center" style="margin: 10px;">
 
 
 
