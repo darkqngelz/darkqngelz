@@ -29,7 +29,7 @@
 <br>
 
 <!-- BOTTOM ROW: Social links and final decorations -->
-( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [𝓢trawpage](https://zanys-info.straw.page) &nbsp;&nbsp; • &nbsp;&nbsp;  [𝐖ip](YOUR_LINK) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
+( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [𝓢trawpage](https://zanys-info.straw.page) &nbsp;&nbsp; • &nbsp;&nbsp;  [𝓒arrd](https://st4rzpup.carrd.co/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
 <br>
  . ─── ── ─
 10/31/2026
