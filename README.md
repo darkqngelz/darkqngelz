@@ -13,9 +13,9 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="lomedy and flame.png" width="800" align="center" style="margin: 10px;">
+<img src="hehezz.png" width="800" align="center" style="margin: 10px;">
 
-
+𝓐rt by 𝓕uziyams / X
 
 
 
