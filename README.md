@@ -35,7 +35,7 @@
 10/31/2026
 </div>
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="PONY.png" width="200" align="center" style="margin: 10px;">
+<img src="wing.gif" width="200" align="center" style="margin: 10px;">
 
 ![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
 
