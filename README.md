@@ -13,7 +13,7 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="hehe yay orange.jpg" width="800" align="center" style="margin: 10px;">
+<img src="hehe yay orangey.png" width="800" align="center" style="margin: 10px;">
 
 𝓐rt by 𝓕uziyams / X
 
