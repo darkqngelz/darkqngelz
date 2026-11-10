@@ -15,7 +15,7 @@
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
 <img src="uni.png" width="400" align="center" style="margin: 10px;">
 
-𝓐rt by 𝓕uziyams / X
+𝓝ot really Active.
 
 
 
