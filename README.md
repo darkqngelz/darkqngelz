@@ -13,7 +13,7 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="uni.png" width="400" align="center" style="margin: 10px;">
+<img src="wow.png" width="400" align="center" style="margin: 10px;">
 
 𝓝ot really Active.
 
