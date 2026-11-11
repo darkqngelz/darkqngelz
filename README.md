@@ -17,7 +17,7 @@
 
 𝓝ot really Active.
 
-Profile is private until I can get my other account unsuspended rq-
+Unsuspending other acc
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
