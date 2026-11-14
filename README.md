@@ -17,7 +17,7 @@
 
 𝓝ot really Active.
 
-Unsuspending other acc
+Mentally broken , I'll be offline for awhile sometimes guys <3 !
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
