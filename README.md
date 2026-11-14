@@ -22,7 +22,7 @@ Mentally broken , I'll be offline for awhile sometimes guys <3 !
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
 ✧ &nbsp; <i>𝓹ony𝓽own account only .</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
- <b>𝓽aken</b> &nbsp;&nbsp;&nbsp;&nbsp;  <br>
+ <b> not 𝓽aken</b> &nbsp;&nbsp;&nbsp;&nbsp;  <br>
 <i>𝓶usic 𝓵over</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -39,7 +39,7 @@ Mentally broken , I'll be offline for awhile sometimes guys <3 !
 
 ![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
 
-[𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)  ily guys my only <3 
+[𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)   <3 
 
 -  - -- - --- -- - -- - - - - - ---  - --  - -
 ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  𝓶y 𝓸ther 𝓫eloved 𝓹eople 𝓽ysmm !  .   Father of 10 or more ,  Grandfather of 20 or more
