@@ -29,7 +29,7 @@ Mentally broken , I'll miss you guys!
 <br>
 
 <!-- BOTTOM ROW: Social links and final decorations -->
-( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [𝓢trawpage](https://zanys-info.straw.page) &nbsp;&nbsp; • &nbsp;&nbsp;  [𝓒arrd](https://st4rzpup.carrd.co/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
+( ͡ . . ͡ ) &nbsp; • &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [I'll see you](wipwip) &nbsp;&nbsp; • &nbsp;&nbsp;  [soon!](wipwip) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ⊹
 <br>
  . ─── ── ─
 10/31/2026
