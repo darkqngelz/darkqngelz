@@ -48,5 +48,4 @@ Mentally broken , I'll miss you guys!
 - - - - - -  -  - -- -- - -- - - -- - - - - -
 TW: I have fawning (trauma) .  I HATE to argue with anyone because it gives me extreme anxiety. please don't say anything rude unless its a joke.
 - -  - -- - - --  - - - - - - - - - - - - - - -
-
-𝓑usy Monday-Friday unless I have days off/ a break / sick . 𝓼orryy I won't be on for awhilee okayy?-
+?-
