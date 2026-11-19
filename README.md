@@ -13,11 +13,11 @@
 </p>
 
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
-<img src="snoopy bye.gif" width="600" align="center" style="margin: 10px;">
+<img src="bow.png" width="600" align="center" style="margin: 10px;">
 
-𝓝ot really Active.
+Maybe I'll come back for only a few days on thanksgiving break but i'll still probably leave after.
 
-Mentally broken , I'll miss you guys!
+ I'll miss you guys!
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
