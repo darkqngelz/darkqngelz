@@ -53,4 +53,4 @@ TW: I have fawning (trauma) .  I HATE to argue with anyone because it gives me e
 - -  - -- - - --  - - - - - - - - - - - - - - -
 
 
-VAMPIRE SPAWN , thank you for ur kind gimmick in my strawpage , I appreciate it. !
+[𝓥AMPIRESPAWN](𝓥) , thank you for ur kind gimmick in my strawpage , I appreciate it. !  
