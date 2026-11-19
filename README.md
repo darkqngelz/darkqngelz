@@ -42,7 +42,7 @@ Maybe I'll come back for only a few days on thanksgiving break but i'll still pr
 
 ![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
 
-[𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓚ei](linklink)   <3 
+[𝓑l00dy𝓑ladez](https://github.com/bl00dybladez) ✧ [𝓦umble](https://github.com/tirgery123) ✧ [𝓓eepaffection](https://github.com/tirgery123) ✧ [𝓐NTIHERO](linklink)   <3 
 
 -  - -- - --- -- - -- - - - - - ---  - --  - -
 ᴢ , s, ᴠ , ᴅ , ᴊ , ᴀ , ᴀ , ʟ , ᴍ , ᴀ , ᴡ , ᴋ.  𝓶y 𝓸ther 𝓫eloved 𝓹eople 𝓽ysmm !  .   Father of 10 or more ,  Grandfather of 20 or more
