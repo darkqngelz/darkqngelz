@@ -17,7 +17,7 @@
 
 Maybe I'll come back for only a few days on thanksgiving break but i'll still probably leave after.
 
- I'll miss you guys!
+ I'll miss you guys! I'll be focusing more on life and important stuff now. / I've decided to come back on breaks for a bit so I won't completely leave my loved ones on socials.
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
