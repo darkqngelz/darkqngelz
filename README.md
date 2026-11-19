@@ -19,6 +19,9 @@ Maybe I'll come back for only a few days on thanksgiving break but i'll still pr
 
  I'll miss you guys! I'll be focusing more on life and important stuff now. / I've decided to come back on breaks for a bit so I won't completely leave my loved ones on socials.
 
+ << If I'm on Ponytown on break , I'll probably be in a alone spot."
+ << If I'm online on socials I'll probably be less responsive due to tiredness and recovery
+
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
 ✧ &nbsp; <i>𝓹ony𝓽own account only .</i> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
