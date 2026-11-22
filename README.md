@@ -15,7 +15,7 @@
 <!-- THE MAIN CENTRAL IMAGE (Floats to allow text wrapping) -->
 <img src="elliot.png" width="600" align="center" style="margin: 10px;">
 
-IWEC . 
+IWEC . I'm probably still upset , but i'll still be kind to evb don't worry
 
 <!-- RIGHT SIDE FLOATING TEXT & SYMBOLS -->
 <p align="right">
